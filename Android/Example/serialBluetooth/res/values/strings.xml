@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">serialBluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Text</string>
+    <string name="title_section2">Connection</string>
+    <string name="title_section3">RBG LED</string>
+	<string name="title_section4">Sound</string>
+</resources>
